@@ -1,0 +1,349 @@
+
+
+<!doctype html>
+<html lang="ko">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+		<meta name="description" content="모든 교회를 위한 온라인기도실">
+		<meta name="author" content="온라인기도실">
+		<meta name="generator" content="온라인 기도실">
+		<meta property="og:type" content="website" /> 
+		<meta property="og:image" content="https://dongilch.github.io/201129/201122thumb.jpg" />
+		<meta property="og:title" content="온라인 기도실" />  
+		<meta property="og:description" content="어디에나 계신 주님과 지금 여기에" />
+		
+		<!-- CSS only -->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+		
+		<link rel="stylesheet" href="//wessch.cafe24.com/us/prayer.css">
+		
+		<!-- JS, Popper.js, and jQuery -->
+		
+		<script
+		src="https://code.jquery.com/jquery-3.5.1.min.js"
+		integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+		crossorigin="anonymous"></script>
+		
+		
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
+		<!-- <link rel="stylesheet" href='http://ministry.ssch.net/prayer/room.css'/> -->
+		
+		<title>온라인 기도실</title>
+		<style>
+			
+		</style>
+	</head>
+	<body>
+		
+		
+		
+		
+		<div class="container-sm  justify-content-center  h-100" >   
+			<div class="row d-flex justify-content-center align-items-center " id='main_fr'>
+				
+				<audio  id='aup' src="https://pgsixt.github.io/8/20201018_prayer_bgm.mp3" style='display:none' type="audio/mp3" ></audio> 
+				
+				
+				
+				<!--   maincard 단위로 슬라이드가 구분됩니다.     -->
+						 <div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/cover1.jpg' data-desktop='http://wessch.cafe24.com/prayer/picture/crossroom4.jpg'>
+줄바꿈::
+줄바꿈::
+줄바꿈::
+줄바꿈::
+줄바꿈::
+줄바꿈::
+줄바꿈::
+===
+	<h4 class='text-center'><b class='colyel churchname'> </b> 동일교회 온라인 기도실</h4>
+					<h6 class='text-center'>11월 22일(주일) ~ 11월 28일(토)</h6>
+					
+---
+
+		<button class='btn btn-warning btn_next btn-block'>시작하기</button>
+</div>
+<div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/carmountain.jpg'>
+
+제목::[기도,][[ 그 여정을 시작하며]]
+===
+설명*::이곳은 주님께 나아가는 자리입니다.
+설명*::30분 정도 여유를 갖고 하시길 바랍니다.
+설명*::말씀과 묵상, 찬양과 기도로 함께 합니다.
+설명*::하단의 버튼을 누르면 다음 기도제목으로 넘어갑니다.
+---
+줄바꿈::
+
+중간본문::[성령님]께서 우리의 기도를 인도해 주십니다. 도우심을 구하며 기도를 시작합니다.
+줄바꿈::
+오른쪽작은본문::준비가 되면, 아래의 [버튼]을 눌러주세요. 
+줄바꿈::
+다음버튼::기도로 나아가며
+
+
+</div>
+<div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/worship1.jpg'>
+줄바꿈::
+
+제목::[찬양], [[마음을 열며]]
+===
+설명*::찬양의 가사를 천천히 읽어 봅시다.
+---
+줄바꿈::
+중간본문::주의 임재 앞에 잠잠해 주 여기 계시네 
+중간본문::와서 모두 굽혀 경배해 신령과 진리로 
+줄바꿈::
+중간본문::순결하신 주님 거룩한 존전에 
+중간본문::주의 임재 앞에 잠잠해 주 여기 계시네
+줄바꿈::
+중간본문::주의 영광 앞에 잠잠해 주의 빛 비치네 
+중간본문::거룩한 불 태우시며 영광의 관 쓰네 
+줄바꿈::
+중간본문::주 영광 찬란해 빛되신 우리 왕 
+중간본문::주의 영광 앞에 잠잠해 주의 빛 비치네
+줄바꿈::
+
+다음버튼::다음
+
+</div>
+<div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/worship1.jpg'>
+줄바꿈::
+중간본문::주의 능력 앞에 잠잠해 주 역사 하시네
+중간본문::죄 사하고 치유하시는 놀라운 주 은혜
+줄바꿈::
+중간본문::주 믿는 자에게 능치 못함 없네
+중간본문::주의 능력 앞에 잠잠해 주 역사 하시네
+줄바꿈::
+오른쪽작은본문::-주의 임재 앞에 잠잠해 (Faith Worship)
+---
+유튜브::odEFLiAw3nM
+줄바꿈::
+
+<button type="submit"   class="btn btn-warning btn_next float-right" name="button" id='btn_4' data-kill='#if1' onclick='aup.play();' >다음</button>
+
+ </div>
+<div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/readingbook.jpg'>
+
+
+
+제목::[말씀] [["우리의 시선을 두고"]]
+---
+설명*::데살로니가전서 5장 12~18절
+설명*::말씀을 천천히 여러 번 읽습니다. 
+---
+중간본문::12 형제들아 우리가 너희에게 구하노니 너희 가운데서 수고하고 주 안에서 너희를 다스리며 권하는 자들을 너희가 알고
+줄바꿈::
+중간본문::13 그들의 역사로 말미암아 사랑 안에서 가장 귀히 여기며 너희끼리 화목하라
+줄바꿈::
+중간본문::14 또 형제들아 너희를 권면하노니 게으른 자들을 권계하며 마음이 약한 자들을 격려하고 힘이 없는 자들을 붙들어 주며 모든 사람에게 오래 참으라
+줄바꿈::
+중간본문::15 삼가 누가 누구에게든지 악으로 악을 갚지 말게 하고 서로 대하든지 모든 사람을 대하든지 항상 선을 따르라
+줄바꿈::
+중간본문::16 항상 기뻐하라
+줄바꿈::
+중간본문::17 쉬지 말고 기도하라
+줄바꿈::
+중간본문::18 범사에 감사하라 이것이 그리스도 예수 안에서 너희를 향하신 하나님의 뜻이니라
+줄바꿈::
+중간본문::19 성령을 소멸하지 말며
+줄바꿈::
+중간본문::20 예언을 멸시하지 말고
+줄바꿈::
+중간본문::21 범사에 헤아려 좋은 것을 취하고
+줄바꿈::	
+중간본문::22 악은 어떤 모양이라도 버리라
+
+가운데작은본문::-  살전 5:12-22
+다음버튼::아멘
+
+	
+
+</div>
+<div class='maincard clearfix' data-bg='http://dongilch.github.io/201129/prayhand.jpg'>
+제목::[[마음의]] [숨비소리]
+===
+설명*::말씀을 새기며 기도합니다.
+---
+
+중간본문::우리의 영혼은 기도를 통해 [생명]을 누립니다.
+
+줄바꿈:: 
+
+중간본문::범사가 잘되고 강건하기 위해서는 영혼이 잘되어야 합니다.
+
+줄바꿈::
+	
+중간본문::기도가 없으면 영혼이, 마음이 시들시들해집니다.
+
+줄바꿈::
+
+중간본문::항상 기도함으로 하나님의 생명과 생기로 충만한 삶을 살게 하소서.
+줄바꿈::
+
+
+다음버튼::다음
+
+</div>
+<div class='maincard clearfix'  data-bg='http://dongilch.github.io/201129/onemanpray.jpg'>
+
+
+제목:: [[기도는 하나님과]] [만남][[입니다.]]
+===
+설명*::말씀을 새기며 기도합니다.
+---
+중간본문:: 기도는 하나님과 [대화]하는 것입니다. 
+줄바꿈::
+
+중간본문::기도뿐 아니라 말씀을 묵상하고, 설교를 듣고, 찬양을 부르며 하나님과 대화 할 수 있습니다.
+줄바꿈::
+
+중간본문::부모가 자녀와 대화하듯, 하나님과 친밀한 [사귐]이 있게 하소서.
+
+다음버튼::다음
+
+</div>
+<div class='maincard clearfix' data-bg='http://pgsixt.github.io/10/forest10.jpg'>
+
+제목::[쉬지 말고] [[기도하라.]]
+
+===
+설명*::말씀을 새기며 기도합니다.
+---
+중간본문::쉬지 말고 기도하는 것은 매일 정기적으로 하나님과 만나라는 말씀입니다
+줄바꿈::
+
+중간본문::믿음의 조상들은 매일 정한 시간에 하나님과 만남의 시간을 가졌습니다. 
+줄바꿈::
+
+중간본문::[매일] 하나님과 만남의 시간을 통해 평안과 담대함을 누리게 하소서. 
+줄바꿈::
+
+줄바꿈::
+
+다음버튼::다음
+
+</div>
+<div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/onthemountain10.jpg'>
+
+
+제목::교회를 위한 기도
+
+===
+설명*::우리 교회를 위한 기도
+---
+중간본문::코로나19를 소멸시켜 주시고 예배와 일상을 회복시켜 주소서.
+줄바꿈::
+
+중간본문::코로나19로 인하여 복음전파가 막히지 않게 하시고, 열방에 주의 이름이 선포되게 하소서.
+줄바꿈::
+	
+중간본문::50주년 기념 승강기 공사가 안전하고 순조롭게 진행되게 하소서.
+줄바꿈::
+
+중간본문::고3 수험생들에게 지혜와 믿음과 집중력을 더해 주소서.
+
+
+다음버튼::다음
+</div>
+				
+				
+<div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/nightstar10.jpg'  data-desktop='https://images.unsplash.com/photo-1578039389692-1a498d55df0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'>
+
+제목::[기도문], [[당신으로 족합니다]]
+===
+설명*::믿음의 사람들의 기도문으로 함께 기도합시다. 아래 기도문을 소리내어 읽습니다.
+---
+가운데중간본문::하나님, 주님의 선하심을 따라
+가운데중간본문::주님을 자신을 저에게 주소서.
+줄바꿈::
+가운데중간본문::저에게는 주님만 있으면 충분하기 때문입니다.
+줄바꿈::
+가운데중간본문::주님이 아닌 다른 것을
+가운데중간본문::주님만큼 값지다고 생각하고 구하는 것은 옳지 않습니다. 
+
+
+다음버튼::계속
+
+
+
+
+</div>
+<div class='maincard clearfix' data-bg='http://pgsixt.github.io/10/nightstar10.jpg' data-desktop='https://images.unsplash.com/photo-1578039389692-1a498d55df0e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80'>
+
+가운데중간본문::만일 제가 주님 아닌 다른 어떤 것을 구한다면
+가운데중간본문::저는 늘 부족함을 느끼게 될 것입니다.
+줄바꿈::
+가운데중간본문::오직 주님 안에 있을 때
+가운데중간본문::저는 모든 것을 가지고 있는 것입니다. 
+
+---
+줄바꿈::
+
+줄바꿈::
+작은본문::[노리치의 줄리안](1332~1420), 영국의 여성 수도자
+다음버튼::아멘
+
+</div>
+<div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/manstar10.jpg'  data-desktop='https://images.unsplash.com/photo-1488866022504-f2584929ca5f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1343&q=80'>
+
+
+제목::[기다림], [[주님의 뜻을 기다리며]]
+===
+설명*::주님이 우리에게 주시는 마음이 있는지 살펴봅시다.
+설명*::억지로 생각을 짜내지 않고, 침묵합니다.
+설명*::모든 생각이 주님의 것은 아닙니다. 떠오른 것 중에는 내 생각와 욕구, 할 일도 있습니다. 자연스러운 과정이니 괜찮습니다. 
+---
+
+가운데중간본문::말씀하옵소서.
+가운데큰본문:: [주의 종]이 듣겠나이다
+가운데작은본문::사무엘상 3장 10절
+줄바꿈::
+줄바꿈::
+가운데중간본문::고요한 가운데 잠시 침묵합니다.
+다음버튼::다음
+
+</div>
+
+<div class='maincard clearfix'  data-bg='http://dongilch.github.io/201129/cityonahill.jpeg'>
+
+제목::[감사], [[간구를 들으신 주님께 ]]
+===
+설명*::기도를 인도하신 주님께 감사를 올려드립니다.
+설명*::주님께서는 믿음으로 기도할 때 넘치도록 응답하십니다. 
+설명*::아래의 구절을 읽고, 감사를 올려드립니다.
+---
+
+가운데중간본문:: 여호와여 나를 반기시는 때에
+가운데중간본문:: 내가 주께 기도하오니
+가운데중간본문:: 하나님이여 많은 인자와 구원의 진리로 내게 응답하소서
+가운데중간본문:: 나를 수렁에서 건지사 빠지지 말게 하시고
+가운데중간본문:: 나를 미워하는 자에게서와 깊은 물에서 건지소서
+
+줄바꿈::
+가운데작은본문::시편 69편 13~14절
+줄바꿈::
+다음버튼::주님, 감사합니다
+
+</div>
+<div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/sunrise10.jpg'>
+
+제목::[파송], [[세상을 향하여 ]]
+===
+줄바꿈::
+가운데중간본문::온라인 기도는 마쳤습니다.
+줄바꿈::
+가운데중간본문::주님께서 우리와 함께 하십니다.
+줄바꿈::
+가운데중간본문::주님과 함께 세상으로 나아가시기 바랍니다.
+줄바꿈::
+
+줄바꿈::
+
+</div>
+		</div>
+		</div>
+		<script src='//wessch.cafe24.com/us/room3.js'></script>
+	</body>
+</html>
+
