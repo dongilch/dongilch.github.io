@@ -8,6 +8,8 @@
 		<meta name="description" content="모든 교회를 위한 온라인기도실">
 		<meta name="author" content="온라인기도실">
 		<meta name="generator" content="온라인 기도실">
+					<!-- <meta property="og:url" content="<?=($_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'])?>" />  -->
+
 		<meta property="og:type" content="website" /> 
 		<meta property="og:image" content="https://dongilch.github.io/210117/210117thum.jpg" />
 		<meta property="og:title" content="동일교회 온라인 기도실" />  
@@ -28,12 +30,9 @@
 		
 		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-		<!-- <link rel="stylesheet" href='http://ministry.ssch.net/prayer/room.css'/> -->
 		
 		<title>온라인 기도실</title>
-		<style>
-			
-		</style>
+		
 	</head>
 	<body>
 		
@@ -48,7 +47,7 @@
 				
 				
 				<!--   maincard 단위로 슬라이드가 구분됩니다.     -->
-						 <div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/cover1.jpg' data-desktop='http://wessch.cafe24.com/prayer/picture/crossroom4.jpg'>
+ <div class='maincard clearfix'  data-bg='http://pgsixt.github.io/10/cover1.jpg' data-desktop='http://wessch.cafe24.com/prayer/picture/crossroom4.jpg'>
 줄바꿈::
 줄바꿈::
 줄바꿈::
@@ -61,8 +60,7 @@
 					<h6 class='text-center'>1월 17일(주일) ~ 1월 23일(토)</h6>
 					
 ---
-
-		<button class='btn btn-warning btn_next btn-block'>시작하기</button>
+시작버튼:: 
 </div>
 <div class='maincard clearfix'  data-bg='http://dongilch.github.io/210110/way10.jpg'>
 
@@ -373,15 +371,21 @@
 줄바꿈::
 가운데중간본문::주님께서 우리와 함께 하십니다.
 줄바꿈::
-가운데중간본문::주님과 함께 세상으로 나아가시기 바랍니다.
+가운데중간본문::전능하신 하나님을 의지하기 바랍니다.
 줄바꿈::
 
 줄바꿈::
 
+<a  class="btn btn-warning  float-right btn-block"  id='btn_end' >한 걸음 내딛으며</a>
 </div>
+			</div>
 		</div>
-		</div>
-		<script src='//wessch.cafe24.com/us/room3.js'></script>
+		
+		<script src='https://wessch.cafe24.com/us/room3.js'></script> 
+		<script>
+		
+		$('.maincard').addClass('col-md-10 mx-auto');
+		</script>
+		
 	</body>
 </html>
-
